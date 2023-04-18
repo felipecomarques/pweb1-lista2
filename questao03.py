@@ -1,5 +1,5 @@
-numero = int(input("Insira um número: "))
-if (numero % 2 != 0):
-    print("É impar")
+numero = int(input("Insira um numero: "))
+if numero % 2 == 1:
+    print("Eh impar")
 else:
-    print("É par")
+    print("Eh par")

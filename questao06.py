@@ -1,3 +1,3 @@
-numero = int(input("Insira um número: "))
+numero = int(input("Insira um numero: "))
 for i in range(11):
     print(numero, "*", i, "=", numero*i)

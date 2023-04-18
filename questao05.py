@@ -1,8 +1,8 @@
-numero1 = int(input("Digite o 1º número: "))
-numero2 = int(input("Digite o 2º número: "))
-if (numero1 > numero2):
-    print("O primeiro número é maior")
-elif (numero2 > numero1):
-    print("O segundo número é maior")
+numero1 = int(input("Digite o 1 numero: "))
+numero2 = int(input("Digite o 2 numero: "))
+if numero1 > numero2:
+    print("O primeiro numero eh maior")
+elif numero2 > numero1:
+    print("O segundo numero eh maior")
 else:
-    print("São números iguais")
+    print("São numeros iguais")
